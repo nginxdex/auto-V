@@ -1,16 +1,9 @@
 # auto-V
 Auto visitor for your blog or website :)
 
-![logo](https://user-images.githubusercontent.com/43511729/76682698-d074cb80-6630-11ea-82b0-e7740dae2f81.jpg)
+![logo](https://user-images.githubusercontent.com/43511729/78971991-efcf1d80-7b36-11ea-9c7a-5ea3f41f1310.jpg)
 
 
 # usage
-  php balit.php yourlist.txt
+  php auto-V.php
   
-# List
-    list yang berisi url harus tanpa menggunakan http/https
-    ex:
-    zeerx7.my.id
-    exploit.sch.id
-    muschool.sch.id
-
