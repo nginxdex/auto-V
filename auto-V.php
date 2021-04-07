@@ -98,7 +98,7 @@ echo $C."|Gagal Terkirim =>$R $p \n";
 function view($url,$agent){
  $z7 = curl_init();
  curl_setopt($z7, CURLOPT_URL, $url);
- curl_setopt($z7, CURLOPT_REFERER, "https://www.google.com");
+ curl_setopt($z7, CURLOPT_REFERER, "https://www.magelang1337.com");
  curl_setopt($z7, CURLOPT_HEADER, 0);
  curl_setopt($z7, CURLOPT_FOLLOWLOCATION, true);
  curl_setopt($z7, CURLOPT_RETURNTRANSFER, true);
