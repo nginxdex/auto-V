@@ -42,8 +42,8 @@ $R ╲".$Y."╭╯╭━╮ ╭━╮╰╮".$R."╱
 $R ╲".$Y."┃ ┃ ▊ ┃ ▊ ┃".$R."╱
 $R ╲".$Y."┃ ┗━┛ ┗━┛ ┃".$R."╱
 $R ╱".$Y."┃ ┏━━━━━┓ ┃".$R."╲ $B  Auto Visitor
-$R ╱".$Y."┃ ┃  ╭━╮┃ ┃".$R."╲ $G  Coded by Zeerx7
-$R ╱".$Y."╰╮╰━━┻━┻╯╭╯".$R."╲ $G  Team : XploitSec-ID
+$R ╱".$Y."┃ ┃  ╭━╮┃ ┃".$R."╲ $G  Magelang1337
+$R ╱".$Y."╰╮╰━━┻━┻╯╭╯".$R."╲ $G  Website : www.magelang1337.com
 $R ╱╱".$Y."╰━━━━━━━╯".$R."╲╲
 ";
 $useragent = [
