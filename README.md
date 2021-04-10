@@ -5,5 +5,5 @@ Auto visitor for your blog or website :)
 
 
 # usage
-  php auto-V.php
+  php auto.php
   
