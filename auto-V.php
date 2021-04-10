@@ -5,8 +5,8 @@
  //    				    //
 
 /*
-   	Coded by Zeerx7
-   Team : XploitSecurity-ID
+   	Magelang1337
+   Website : www.magelang1337.com
 */
 if(strtolower(substr(PHP_OS, 0, 3)) == 'win') {
         $R  = "";
